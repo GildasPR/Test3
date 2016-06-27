@@ -7,7 +7,7 @@
 # Ce script effetue les opérations suivantes :
 # 
 #       - Affichage d'une popup dans une TS SCCM
-
+#V2
 function New-PopupMessage {
 
 $Message = "L'utilitaire de compression Winzip n'est pas présent!"
