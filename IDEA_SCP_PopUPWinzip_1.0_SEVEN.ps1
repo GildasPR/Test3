@@ -8,6 +8,7 @@
 # 
 #       - Affichage d'une popup dans une TS SCCM
 #V2
+#v3
 function New-PopupMessage {
 
 $Message = "L'utilitaire de compression Winzip n'est pas présent!"
